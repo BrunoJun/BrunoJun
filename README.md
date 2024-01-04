@@ -1,33 +1,56 @@
-<center><h1>SOBRE MIM</h1></center>
+<h1 align="center">SOBRE MIM</h1>
 
-<center>Meu nome é Bruno Jun, estudante de Análise e Desenvolvimento de Sistemas, sou uma pessoa muito curiosa em aprender novas tecnologias, estou sempre buscando estudar para melhorar cada vez mais, atualmente estou buscando minha primeira oportunidade no mercado de TI. Apresento projetos no meu portifólio focado em programação, abrangendo desde o back-end até o front-end.<center>
+Meu nome é Bruno Jun, estudante de Análise e Desenvolvimento de Sistemas, sou uma pessoa muito curiosa em aprender novas tecnologias, estou sempre buscando estudar para melhorar cada vez mais, atualmente estou buscando minha primeira oportunidade no mercado de TI. Apresento projetos no meu portifólio focado em programação, abrangendo desde o back-end até o front-end.
 
 <hr>
 
-<center><h3>TECNOLOGIAS E FERRAMENTAS FAVORITAS</h3></center>
+<h3 align="center">TECNOLOGIAS E FERRAMENTAS FAVORITAS</h3>
 
 <table>
-    <td><img src="./images/java.png" width=64px><center>Java</center></td>
-    <td><img src="./images/python.png" width=64px><center>Python</center></td>
-    <td><center><img src="./images/springBoot.png" width=64px><center>Spring Boot</center></td>
-    <td><center><img src="./images/docker.png" width=64px><center>Docker</center></td>
-    <td><center><img src="./images/visualStudioCode.svg" width=64px><center>Visual Studio Code</center></td>
-    <td><center><img src="./images/intellij.svg" width=64px><center>Intellij</center></td>
-    <td><center><img src="./images/mysql.svg" width=64px><center>MySQL</center></td>
+  <tr>
+    <th align="center" width="96">
+        <img src="./images/java.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </th> 
+    <th align="center" width="96">
+        <img src="./images/python.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </th>
+    <th align="center" width="96">
+        <img src="./images/springBoot.svg" width="48" height="48" alt="Python" />
+      <br>Spring Boot
+    </th>
+    <th align="center" width="96">
+        <img src="./images/docker.png" width="48" height="48" alt="Python" />
+      <br>Docker
+    </th>
+    <th align="center" width="96">
+        <img src="./images/visualStudioCode.svg" width="48" height="48" alt="Python" />
+      <br>Visual Studio Code
+    </th>
+    <th align="center" width="96">
+        <img src="./images/intellij.svg" width="48" height="48" alt="Python" />
+      <br>Intellij
+    </th>
+    <th align="center" width="96">
+        <img src="./images/mysql.svg" width="48" height="48" alt="Python" />
+      <br>MySQL
+    </th>
+  </tr>
 </table>
 
 <hr>
 
-<center><h3>LINGUAGENS UTILIZADAS NOS REPOSITÓRIOS</h3></center>
+<h3 align="center">LINGUAGENS UTILIZADAS NOS REPOSITÓRIOS</h3>
 
-<div>
+<div align="center">
 <a href="https://github.com/BrunoJun">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJun&layout=compact&langs_count=7&theme=shadow_green"/>
 </div>
 
 <hr>
 
-<center><h3>REPOSITÓRIOS</h3></center>
+<h3 align="center">REPOSITÓRIOS</h3>
 <br>
 
 <div width="100%" align="center">
@@ -39,6 +62,7 @@
   <a align="left" href="https://github.com/BrunoJun/curso-docker" title="curso-docker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoJun&repo=curso-docker&theme=shadow_green&border_color=green&border_radius=10"></a>
   <a align="right" href="https://github.com/BrunoJun/projeto-angular-messiFreeKicks" title="projeto-angular-messiFreeKicks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoJun&repo=projeto-angular-messiFreeKicks&theme=shadow_green&border_color=green&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/BrunoJun?tab=repositories" title="Outros repositórios">Outros repositórios</a>
